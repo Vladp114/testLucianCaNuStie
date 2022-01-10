@@ -1,2 +1,2 @@
 # testLucianCaNuStie
- test
+ Lucica vrea sa faca Git
